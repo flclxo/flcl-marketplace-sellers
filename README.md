@@ -1,5 +1,5 @@
 # flcl-marketplace-sellers
-FLCL-Marketplace-Sellers is a marketplace created by sellers to address common issues in the seller experience. With over $50 million in revenue generated across 
+FLCL-Marketplace-Sellers is a marketplace created by sellers to address common issues in the seller experience. 
 various platforms—including eBay, Shopify, Amazon, Walmart, Target, 
 international markets, StockX, Depop, Grailed, and more—the platform is built by sellers for sellers.
 

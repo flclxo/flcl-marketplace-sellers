@@ -6,7 +6,7 @@ international markets, StockX, Depop, Grailed, and more—the platform is built 
 Many existing selling platforms were developed by individuals without hands-on experience in selling a diverse range of products 
 and services. In response, FLCL is dedicated to providing a marketplace that is truly backed by experienced sellers who understand the game/industry.
 
-Launching to the public in soon, pictures are pre-alpha and are BETA images. All rights reserved. 
+Launching to the public in soon, pictures are pre-pre-alpha and are BETA images. All rights reserved. 
 
 <img width="1384" alt="Screenshot 2025-03-20 at 10 50 21 AM" src="https://github.com/user-attachments/assets/94078199-a16a-4811-9179-22fa71744f28" />
 <img width="1366" alt="Screenshot 2025-03-20 at 10 50 34 AM" src="https://github.com/user-attachments/assets/6dd1d414-2b61-4e54-89a8-ba58763d1d0b" />
@@ -15,3 +15,5 @@ Launching to the public in soon, pictures are pre-alpha and are BETA images. All
 
 System Design format but slightly tweaked. This works great until 10mil users (which will be slightly tweaked)
 <img width="766" alt="Screenshot 2025-03-18 at 6 23 25 PM" src="https://github.com/user-attachments/assets/2a3c3ebb-f120-40f4-9972-ddaf77b6b230" />
+
+
